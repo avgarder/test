@@ -9,6 +9,7 @@ public class Main {
         Integer a = sc.nextInt();
         Integer b = sc.nextInt();
         System.out.println(a == b);
+        // some change
     }
 
     public static void main(String[] args) {
